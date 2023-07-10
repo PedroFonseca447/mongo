@@ -1,0 +1,3 @@
+Comandos->
+mongod - mongo em si,banco de dados
+mongo - o cliente
