@@ -1,0 +1,12 @@
+{
+    "nome":"Pedro",
+    "time":"Gremio",
+    "idade": 21 ,
+    "gostaDe":["futebol", "computação","massa"],
+    "naFaculdade": true,
+    "cadeiras":{
+        "calculo": 7.1,
+        "estatística": 6.9,
+        "verival": 9.1
+    }
+}
